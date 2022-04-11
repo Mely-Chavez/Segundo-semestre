@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Comercial12</title>
+<body bgcolor="FF66FF">
+<pre>
+<hr align="center"  width="100%"  size="30"     color="CC0099"  noshade>
+            <img src="mely.jpg"  align="middle">
+
+
+<font  color="FFFFFF"  size="5"  face="Constantia">
+<b>Perfil personal:</b>                                                                                       <b>Educacion:</b> 
+Tengo 19 años de edad, e tenido experiencia de 5 años                                  Primaria
+en cuanto atencion a cliente ultimamente estoy a cargo                               Secundaria
+de mis dos padres y con ayuda de mis hermanas salimos                              Preparatoria
+adelante juntos                                                                                                    Universidad
+<b>Habilidades:</b>
+Soy violinista, soy muy rapida para ciertas cosas                                    <b>Software:</b>
+me gusta ser organizada y si me intereza algo                                       Google/Exel/Word/PowerPoint/Phyton/Java
+suelo ser rapida para terminarlo                                             
+<b>Idiomas</b>                                                                                        <b>CONTACTOS</b>
+Ingles basico                                                                                              Tel:4651016881
+Español nativo                                                                                           Email: marlenchvz666@gmail.com
+
+</font>
+<font  color="FFFFFF"  size="5"  face="Constantia">
+ Visita el paraiso de los algodones
+<u>¡donde mandas tu!</u>
+
+
+
+<Marquee bgcolor="CC0099"  behavior="scroll"  direction="rigth">
+<font  color="FFFFFF"  size="20"  face="Arial Rounded MT"></font>
+¡No te arrepentiras de esta gran oferta!
+</marquee>
+</font>                      
+</pre>
+</html>
